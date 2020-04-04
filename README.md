@@ -1,7 +1,7 @@
 # uk_covid_data
 Looking at the UK stats on COVID19 with Python
 
-I've always been interested in this area, whether it be stock data or similar. I thought it would serve as a useful tool to tell if if we are indeed flattening this curve. 
+I've always been interested in this area, whether it be stock data or similar. I thought it would serve as a useful tool to see if if we are indeed "flattening this curve". 
 
 A great shout-out to these people for providing me with the tools necessary to do this.
 
